@@ -1,0 +1,24 @@
+{
+  "name": "base-express-ws-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "legacyBundling": true,
+  "author": "Diego V. G. Silva",
+  "license": "WTFPL",
+  "dependencies": {
+    "babel-types": "^6.26.0",
+    "bootstrap": "^4.4.1",
+    "express": "^4.17.1",
+    "jquery": "^3.4.1",
+    "less": "^3.11.1",
+    "node-forge": "^0.9.1",
+    "parcel-bundler": "^1.12.4",
+    "popper.js": "^1.16.1",
+    "serve-index": "^1.9.1",
+    "ws": "^7.2.5"
+  }
+}
